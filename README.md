@@ -35,6 +35,7 @@ let lucas = {
 [![node](https://img.shields.io/static/v1?label=&message=NodeJS&color=094B00&style=flat&logo=node.js)](https://github.com/LucasLima337)
 [![flask](https://img.shields.io/static/v1?label=&message=Flask&color=000&style=flat&logo=flask)](https://github.com/LucasLima337)
 [![gulp](https://img.shields.io/static/v1?label=&message=Gulp&color=800000&style=flat&logo=gulp)](https://github.com/LucasLima337)
+[![pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&style=flat&logo=pandas)](https://github.com/LucasLima337)
 [![postman](https://img.shields.io/static/v1?label=&message=Postman&color=964800&style=flat&logo=postman)](https://github.com/LucasLima337)
 [![git](https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git)](https://github.com/LucasLima337)
 
