@@ -15,7 +15,9 @@ let lucas = {
 }
 ```
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaslima337&show_icons=true&theme=dark">](https://github.com/LucasLima337)
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaslima337&show_icons=true&theme=dracula">](https://github.com/LucasLima337)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslima337&theme=dracula)](https://github.com/LucasLima337)
 
 ---
 ## Knowledge
