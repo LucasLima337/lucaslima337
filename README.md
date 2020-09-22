@@ -20,7 +20,7 @@ let lucas = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslima337&theme=chartreuse-dark&langs_count=10)](https://github.com/LucasLima337)
 
 ## Best Repositories 👌🏆
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Account_Manager&theme=great-gatsby)](https://github.com/LucasLima337/Account_Manager)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Bot_de_Musica_Discord&theme=great-gatsby)](https://github.com/LucasLima337/Bot_de_Musica_Discord)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=PortScan&theme=great-gatsby)](https://github.com/LucasLima337/PortScan)
