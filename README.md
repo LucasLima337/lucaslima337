@@ -35,20 +35,32 @@ let lucas = {
 <code><h3>Backend</h3></code>
 
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/LucasLima337)
+[![flask](https://img.shields.io/static/v1?label=&message=Flask&color=000&style=flat&logo=flask)](https://github.com/LucasLima337)
+
 [![javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=8A8100&style=flat&logo=JavaScript)](https://github.com/LucasLima337)
-[![php](https://img.shields.io/static/v1?label=&message=PHP&color=6a0db6&style=flat&logo=PHP)](https://github.com/LucasLima337)
+[![node](https://img.shields.io/static/v1?label=&message=NodeJS&color=094B00&style=flat&logo=node.js)](https://github.com/LucasLima337)
+
 [![C](https://img.shields.io/badge/-0E0E0F?&style=flat&logo=C)](https://github.com/LucasLima337)
 [![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/LucasLima337)
+
+[![php](https://img.shields.io/static/v1?label=&message=PHP&color=6a0db6&style=flat&logo=PHP)](https://github.com/LucasLima337)
+
+
 <code><h3>Frontend</h3></code>
 
 [![html](https://img.shields.io/static/v1?label=&message=HTML&color=9B0A00&style=flat&logo=html5)](https://github.com/LucasLima337)
 [![css](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=flat&logo=css3)](https://github.com/LucasLima337)
+
+[![javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=8A8100&style=flat&logo=JavaScript)](https://github.com/LucasLima337)
+[![jquery](https://img.shields.io/static/v1?label=&message=jQuery&color=0769AD&style=flat&logo=jQuery)](https://github.com/LucasLima337)
 ### Other technologies
 
-[![node](https://img.shields.io/static/v1?label=&message=NodeJS&color=094B00&style=flat&logo=node.js)](https://github.com/LucasLima337)
-[![flask](https://img.shields.io/static/v1?label=&message=Flask&color=000&style=flat&logo=flask)](https://github.com/LucasLima337)
+
+
 [![gulp](https://img.shields.io/static/v1?label=&message=Gulp&color=800000&style=flat&logo=gulp)](https://github.com/LucasLima337)
 [![pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&style=flat&logo=pandas)](https://github.com/LucasLima337)
+[![jwt](https://img.shields.io/static/v1?label=&message=JWT&color=000&style=flat&logo=JSON-Web-Tokens)](https://github.com/LucasLima337)
+
 [![postman](https://img.shields.io/static/v1?label=&message=Postman&color=964800&style=flat&logo=postman)](https://github.com/LucasLima337)
 [![git](https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git)](https://github.com/LucasLima337)
 
