@@ -3,7 +3,7 @@
 ## About me :ok_man:
 * Computer Science Student :man_technologist:
 * Federal University of Bahia
-* Trainee at **TITAN**
+* Assessor de Projetos at **TITAN**
 
 **Love _Hacking_ and _Develop_ new things!**
 
