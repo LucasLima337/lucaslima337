@@ -62,7 +62,7 @@ let lucas = {
 [![pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&style=flat&logo=pandas)](https://github.com/LucasLima337)
 [![jwt](https://img.shields.io/static/v1?label=&message=JWT&color=000&style=flat&logo=JSON-Web-Tokens)](https://github.com/LucasLima337)
 
-[![postman](https://img.shields.io/static/v1?label=&message=Postman&color=964800&style=flat&logo=postman)](https://github.com/LucasLima337)
+[![insomnia](https://img.shields.io/static/v1?label=&message=Insomnia&color=5849BE&style=flat&logo=Insomnia)](https://github.com/LucasLima337)
 [![git](https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git)](https://github.com/LucasLima337)
 
 ### Operational Systems
