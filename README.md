@@ -29,6 +29,10 @@ let lucas = {
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Gerenciador_de_Repositorios_Git&theme=great-gatsby)](https://github.com/LucasLima337/Gerenciador_de_Repositorios_Git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=FlappyBird_Game&theme=great-gatsby)](https://github.com/LucasLima337/FlappyBird_Game)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Projeto_Galeria&theme=great-gatsby)](https://github.com/LucasLima337/Projeto_Galeria)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Jogo_da_Forca&theme=great-gatsby)](https://github.com/LucasLima337/Jogo_da_Forca)
+
+
 
 ---
 ## Knowledge 💡📚
