@@ -36,7 +36,7 @@ let lucas = {
 
 ---
 ## Knowledge 💡📚
-<code><h3>Backend</h3></code>
+<h3>Backend</h3>
 
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/LucasLima337)
 [![flask](https://img.shields.io/static/v1?label=&message=Flask&color=000&style=flat&logo=flask)](https://github.com/LucasLima337)
@@ -50,7 +50,7 @@ let lucas = {
 [![php](https://img.shields.io/static/v1?label=&message=PHP&color=6a0db6&style=flat&logo=PHP)](https://github.com/LucasLima337)
 
 
-<code><h3>Frontend</h3></code>
+<h3>Frontend</h3>
 
 [![html](https://img.shields.io/static/v1?label=&message=HTML&color=9B0A00&style=flat&logo=html5)](https://github.com/LucasLima337)
 [![css](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=flat&logo=css3)](https://github.com/LucasLima337)
