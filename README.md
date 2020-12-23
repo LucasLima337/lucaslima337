@@ -1,13 +1,13 @@
 # Hi there, I'm Lucas Lima 👋
 
 ## About me :ok_man:
-* Computer Science Student :man_technologist:
-* Federal University of Bahia
-* Assessor de Projetos at **TITAN**
+  * Computer Science Student :man_technologist:
+  * Federal University of Bahia
+  * Assessor de Projetos at **TITAN**
 
 **Love _Hacking_ and _Develop_ new things!**
 
-```
+```js
 let lucas = {
   alive: true,
   learning: true,
@@ -15,7 +15,10 @@ let lucas = {
 }
 ```
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaslima337&show_icons=true&theme=chartreuse-dark">](https://github.com/LucasLima337)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslima337&show_icons=true&theme=chartreuse-dark">
+  <img align="right" src="https://i.pinimg.com/originals/eb/4a/13/eb4a13456f8a9e0c12c6ab1509488bbc.gif" width="430" title="Hacking">
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslima337&theme=chartreuse-dark&langs_count=10)](https://github.com/LucasLima337)
 
@@ -36,7 +39,7 @@ let lucas = {
 
 ---
 ## Knowledge 💡📚
-<h3>Backend</h3>
+* ### Backend
 
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/LucasLima337)
 [![flask](https://img.shields.io/static/v1?label=&message=Flask&color=000&style=flat&logo=flask)](https://github.com/LucasLima337)
@@ -50,7 +53,7 @@ let lucas = {
 [![php](https://img.shields.io/static/v1?label=&message=PHP&color=6a0db6&style=flat&logo=PHP)](https://github.com/LucasLima337)
 
 
-<h3>Frontend</h3>
+* ### Frontend
 
 [![html](https://img.shields.io/static/v1?label=&message=HTML&color=9B0A00&style=flat&logo=html5)](https://github.com/LucasLima337)
 [![css](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=flat&logo=css3)](https://github.com/LucasLima337)
