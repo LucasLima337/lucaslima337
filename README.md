@@ -1,5 +1,5 @@
 # Hi there, I'm Lucas Lima 👋
-<img align="right" src="https://i.pinimg.com/originals/eb/4a/13/eb4a13456f8a9e0c12c6ab1509488bbc.gif" width="350" title="Hacking">
+<img align="right" src="https://i.pinimg.com/originals/eb/4a/13/eb4a13456f8a9e0c12c6ab1509488bbc.gif" width="330" title="Hacking">
 
 ## About me :ok_man:
   * Computer Science Student :man_technologist:
