@@ -31,7 +31,7 @@ let lucas = {
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=FlappyBird_Game&theme=great-gatsby)](https://github.com/LucasLima337/FlappyBird_Game)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Gallery_Project&theme=great-gatsby)](https://github.com/LucasLima337/Gallery_Project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Jogo_da_Forca&theme=great-gatsby)](https://github.com/LucasLima337/Jogo_da_Forca)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Hangman_Game&theme=great-gatsby)](https://github.com/LucasLima337/Hangman_Game)
 
 
 
