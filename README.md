@@ -27,7 +27,7 @@ let lucas = {
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=PortScan&theme=great-gatsby)](https://github.com/LucasLima337/PortScan)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Subdomains_Scanner&theme=great-gatsby)](https://github.com/LucasLima337/Subdomains_Scanner)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Gerenciador_de_Repositorios_Git&theme=great-gatsby)](https://github.com/LucasLima337/Gerenciador_de_Repositorios_Git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Git_Repositories_Manager&theme=great-gatsby)](https://github.com/LucasLima337/Git_Repositories_Manager)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=FlappyBird_Game&theme=great-gatsby)](https://github.com/LucasLima337/FlappyBird_Game)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Gallery_Project&theme=great-gatsby)](https://github.com/LucasLima337/Gallery_Project)
