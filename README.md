@@ -34,10 +34,9 @@ let lucas = {
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Hangman_Game&theme=great-gatsby)](https://github.com/LucasLima337/Hangman_Game)
 
 
-
----
 ## Knowledge 💡📚
-* ### Backend
+
+### ⚙ Backend
 
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/LucasLima337)
 [![flask](https://img.shields.io/static/v1?label=&message=Flask&color=000&style=flat&logo=flask)](https://github.com/LucasLima337)
@@ -51,7 +50,7 @@ let lucas = {
 [![php](https://img.shields.io/static/v1?label=&message=PHP&color=6a0db6&style=flat&logo=PHP)](https://github.com/LucasLima337)
 
 
-* ### Frontend
+### 🖼 Frontend
 
 [![html](https://img.shields.io/static/v1?label=&message=HTML&color=9B0A00&style=flat&logo=html5)](https://github.com/LucasLima337)
 [![css](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=flat&logo=css3)](https://github.com/LucasLima337)
@@ -59,7 +58,7 @@ let lucas = {
 
 [![javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=8A8100&style=flat&logo=JavaScript)](https://github.com/LucasLima337)
 [![jquery](https://img.shields.io/static/v1?label=&message=jQuery&color=0769AD&style=flat&logo=jQuery)](https://github.com/LucasLima337)
-### Other technologies
+### 🛠 Other technologies
 
 
 
@@ -70,9 +69,9 @@ let lucas = {
 [![insomnia](https://img.shields.io/static/v1?label=&message=Insomnia&color=5849BE&style=flat&logo=Insomnia)](https://github.com/LucasLima337)
 [![git](https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git)](https://github.com/LucasLima337)
 
-### Operational Systems
+### 🖥 Operational Systems
 [![linux](https://img.shields.io/static/v1?label=&message=Linux&color=AF00AF&style=flat&logo=linux)](https://github.com/LucasLima337)
 [![windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&style=flat&logo=windows)](https://github.com/LucasLima337)
 
-### Contact :telephone_receiver: :iphone:
+### :telephone_receiver: Contact 
 [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/lucaslima337/)
