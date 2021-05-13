@@ -21,6 +21,7 @@ let lucas = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslima337&theme=chartreuse-dark&langs_count=10)](https://github.com/LucasLima337)
 
 ## Best Repositories 👌🏆
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Account__Manager&theme=great-gatsby)](https://github.com/LucasLima337/Account__Manager)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Discord_Music_Bot&theme=great-gatsby)](https://github.com/LucasLima337/Discord_Music_Bot)
 
@@ -36,31 +37,43 @@ let lucas = {
 
 ## Knowledge 💡📚
 
+### 📈 Agile Methodologies
+
+<code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpXSTWuw-B5L8bsx2dUTENYGMFZrQoEKntFqyGjL1N6tKSHDJ0sH1zGcidYwza7VAsyQ&usqp=CAU" alt="scrum"/></code>
+<code><img height="58" src="https://twhyderabad.github.io/xtremetesting/static/media/bdd-testing.52c17b2d.png" alt="bdd"/></code>
+<code><img height="62" src="https://logodix.com/logo/1883015.png" alt="kanban"/></code>
+
+
 ### ⚙ Backend
 
-[![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/LucasLima337)
-[![flask](https://img.shields.io/static/v1?label=&message=Flask&color=000&style=flat&logo=flask)](https://github.com/LucasLima337)
+<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" alt="Python"/></code>
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReb8sch4-6FLn9ugLT-YAK8BZhiFs67aqg7Ar2ZWtYoIEmZCaILJM1KvJlQlBryTd7XM8&usqp=CAU" alt="Flask"/></code>
 
-[![javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=8A8100&style=flat&logo=JavaScript)](https://github.com/LucasLima337)
-[![node](https://img.shields.io/static/v1?label=&message=NodeJS&color=094B00&style=flat&logo=node.js)](https://github.com/LucasLima337)
+<code><img height="40" src="https://cdn1.iconfinder.com/data/icons/development-2-yellow/60/30_-Javascript-_development_coding_programming_code-128.png" alt="Javascript"/></code>
+<code><img height="40" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-128.png" alt="NodeJS"/></code>
 
-[![C](https://img.shields.io/badge/-0E0E0F?&style=flat&logo=C)](https://github.com/LucasLima337)
-[![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/LucasLima337)
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-128.png" alt="cpp"/></code>
 
-[![php](https://img.shields.io/static/v1?label=&message=PHP&color=6a0db6&style=flat&logo=PHP)](https://github.com/LucasLima337)
+<code><img height="22" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-128.png" alt="php"/></code>
 
 
 ### 🖼 Frontend
 
-[![html](https://img.shields.io/static/v1?label=&message=HTML&color=9B0A00&style=flat&logo=html5)](https://github.com/LucasLima337)
-[![css](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=flat&logo=css3)](https://github.com/LucasLima337)
-[![bootstrap](https://img.shields.io/static/v1?label=&message=Boostrap&color=9400D3&style=flat&logo=Bootstrap)](https://github.com/LucasLima337)
+<code><img height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" alt="html"/></code>
+<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-128.png" alt="css"/></code>
+<code><img height="40" src="https://tanming363.gallerycdn.vsassets.io/extensions/tanming363/bootstrap-v4/2.0.0/1593122225400/Microsoft.VisualStudio.Services.Icons.Default" alt="bootstrap"/></code>
 
-[![javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=8A8100&style=flat&logo=JavaScript)](https://github.com/LucasLima337)
-[![jquery](https://img.shields.io/static/v1?label=&message=jQuery&color=0769AD&style=flat&logo=jQuery)](https://github.com/LucasLima337)
+<code><img height="40" src="https://cdn1.iconfinder.com/data/icons/development-2-yellow/60/30_-Javascript-_development_coding_programming_code-128.png" alt="Javascript"/></code>
+<code><img height="40" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="jquery"/></code>
+
+
+### 📊 Quality Assurance
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3kNpSdUYDgx_yR5i_5vWo0alNc8jX5nbwm-Tr772b4NW_MmWQ_nvXHh2Fgn2BY1hRgzg&usqp=CAU" alt="cypress"/></code>
+<code><img height="40" src="https://iconape.com/wp-content/png_logo_vector/cucumber.png" alt="cucumber"/></code>
+
+
 ### 🛠 Other technologies
-
-
 
 [![gulp](https://img.shields.io/static/v1?label=&message=Gulp&color=800000&style=flat&logo=gulp)](https://github.com/LucasLima337)
 [![pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&style=flat&logo=pandas)](https://github.com/LucasLima337)
@@ -69,9 +82,13 @@ let lucas = {
 [![insomnia](https://img.shields.io/static/v1?label=&message=Insomnia&color=5849BE&style=flat&logo=Insomnia)](https://github.com/LucasLima337)
 [![git](https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git)](https://github.com/LucasLima337)
 
+
 ### 🖥 Operational Systems
+
 [![linux](https://img.shields.io/static/v1?label=&message=Linux&color=AF00AF&style=flat&logo=linux)](https://github.com/LucasLima337)
 [![windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&style=flat&logo=windows)](https://github.com/LucasLima337)
 
+
 ### :telephone_receiver: Contact 
+
 [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/lucaslima337/)
