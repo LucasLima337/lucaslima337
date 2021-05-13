@@ -50,7 +50,7 @@ let lucas = {
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReb8sch4-6FLn9ugLT-YAK8BZhiFs67aqg7Ar2ZWtYoIEmZCaILJM1KvJlQlBryTd7XM8&usqp=CAU" alt="Flask"/></code>
 
 <code><img height="40" src="https://cdn1.iconfinder.com/data/icons/development-2-yellow/60/30_-Javascript-_development_coding_programming_code-128.png" alt="Javascript"/></code>
-<code><img height="40" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-128.png" alt="NodeJS"/></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/233_Node_Js-128.png" alt="NodeJS"/></code>
 
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-128.png" alt="cpp"/></code>
@@ -75,20 +75,22 @@ let lucas = {
 
 ### 🛠 Other technologies
 
-[![gulp](https://img.shields.io/static/v1?label=&message=Gulp&color=800000&style=flat&logo=gulp)](https://github.com/LucasLima337)
-[![pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&style=flat&logo=pandas)](https://github.com/LucasLima337)
-[![jwt](https://img.shields.io/static/v1?label=&message=JWT&color=000&style=flat&logo=JSON-Web-Tokens)](https://github.com/LucasLima337)
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/gulp-1-282455.png" alt="gulp"/></code>
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPWgQP0ECHWz1mHzRjmWW0noU63ZMG-qjIq46yP3ODyQSuX4EuM2NFy7w3H0VFS0OIf0&usqp=CAU" alt="pandas"/></code>
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEBc1gdKK5Bj9Y9H3teKsSbffIUIQywBuUJ-LTAt6uzVOB8BoD0BruKhYpW52Qii82jc&usqp=CAU" alt="jwt"/></code>
 
-[![insomnia](https://img.shields.io/static/v1?label=&message=Insomnia&color=5849BE&style=flat&logo=Insomnia)](https://github.com/LucasLima337)
-[![git](https://img.shields.io/static/v1?label=&message=Git&color=DB0000&style=flat&logo=git)](https://github.com/LucasLima337)
+<code><img height="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" alt="git"/></code>
 
 
 ### 🖥 Operational Systems
 
-[![linux](https://img.shields.io/static/v1?label=&message=Linux&color=AF00AF&style=flat&logo=linux)](https://github.com/LucasLima337)
-[![windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&style=flat&logo=windows)](https://github.com/LucasLima337)
+<code><img height="40" src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/linux_tox-128.png" alt="linux"/></code>
+<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/70-windows-128.png" alt="windows"/></code>
 
 
 ### :telephone_receiver: Contact 
 
-[![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/lucaslima337/)
+<a href="https://www.linkedin.com/in/lucaslima337/">
+  <code><img alt="My linkedin" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
