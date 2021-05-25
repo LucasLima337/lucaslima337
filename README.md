@@ -80,6 +80,7 @@ let lucas = {
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEBc1gdKK5Bj9Y9H3teKsSbffIUIQywBuUJ-LTAt6uzVOB8BoD0BruKhYpW52Qii82jc&usqp=CAU" alt="jwt"/></code>
 
 <code><img height="40" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="40" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman"/></code>
 <code><img height="40" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" alt="git"/></code>
 
 
