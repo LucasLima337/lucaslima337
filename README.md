@@ -12,7 +12,7 @@
 let lucas = {
   alive: true,
   learning: true,
-  futureJob: 'Pentester'
+  coding: 'Forever'
 }
 ```
 
