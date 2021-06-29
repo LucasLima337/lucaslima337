@@ -4,7 +4,8 @@
 ## About me :ok_man:
   * Computer Science Student :man_technologist:
   * Federal University of Bahia
-  * Software Quality Assurance Analyst at **TITAN**, Junior Company
+  * Software Quality Assurance Analyst at <a href="https://www.linkedin.com/company/ufbatitan/">@TITAN</a>, Junior Company
+  * Junior Software Quality Assurance Analyst at <a href="https://www.linkedin.com/company/cubostecnologia/">@CUBOS TECNOLOGIA</a>
 
 **Love _Hacking_ and _Develop_ new things!**
 
