@@ -5,7 +5,7 @@
   * Computer Science Student :man_technologist:
   * Federal University of Bahia
   * Software Quality Assurance Analyst at <a href="https://www.linkedin.com/company/ufbatitan/">@TITAN</a>, Junior Company
-  * Junior Software Quality Assurance Analyst at <a href="https://www.linkedin.com/company/cubostecnologia/">@CUBOS TECNOLOGIA</a>
+  * Software Quality Assurance Analyst & Devops at <a href="https://www.linkedin.com/company/cubostecnologia/">@CUBOS TECNOLOGIA</a>
 
 **Love _Hacking_ and _Develop_ new things!**
 
