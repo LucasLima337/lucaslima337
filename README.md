@@ -35,6 +35,8 @@ let lucas = {
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Gallery_Project&theme=great-gatsby)](https://github.com/LucasLima337/Gallery_Project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Hangman_Game&theme=great-gatsby)](https://github.com/LucasLima337/Hangman_Game)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaslima337&repo=Docker-Compose-NodeApp&theme=great-gatsby)](https://github.com/LucasLima337/Docker-Compose-NodeApp)
+
 
 ## Knowledge 💡📚
 
@@ -94,5 +96,5 @@ let lucas = {
 ### :telephone_receiver: Contact 
 
 <a href="https://www.linkedin.com/in/lucaslima337/">
-  <code><img alt="My linkedin" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="40" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644184055~hmac=224ade9c179d76955a95e129daefd821" /></code>
 </a>
