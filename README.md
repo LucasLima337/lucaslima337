@@ -72,8 +72,19 @@ let lucas = {
 
 
 ### 📊 Quality Assurance
+
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3kNpSdUYDgx_yR5i_5vWo0alNc8jX5nbwm-Tr772b4NW_MmWQ_nvXHh2Fgn2BY1hRgzg&usqp=CAU" alt="cypress"/></code>
 <code><img height="40" src="https://iconape.com/wp-content/png_logo_vector/cucumber.png" alt="cucumber"/></code>
+
+
+### ♾ Devops
+
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="docker"/></code>
+<code><img height="40" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="kubernetes"/></code>
+<code><img height="40" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png" alt="terraform"/></code>
+
+<code><img height="40" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-6.png" alt="gcp"/></code>
+<code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws"/></code>
 
 
 ### 🛠 Other technologies
