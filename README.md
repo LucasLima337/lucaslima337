@@ -2,10 +2,10 @@
 <img align="right" src="https://i.pinimg.com/originals/eb/4a/13/eb4a13456f8a9e0c12c6ab1509488bbc.gif" width="300" title="Hacking">
 
 ## About me :ok_man:
-  * Computer Science Student :man_technologist:
-  * Federal University of Bahia
-  * Former Member of the <a href="https://www.linkedin.com/company/ufbatitan/">@TITAN</a>, Junior Company
-  * DevOps at <a href="https://www.linkedin.com/company/cubostecnologia/">@CUBOS TECNOLOGIA</a>
+  * :man_technologist: Computer Science Student
+  * 🏫 Federal University of Bahia
+  * 💡 Former Member of the <a href="https://www.linkedin.com/company/ufbatitan/">@TITAN</a>, Junior Company
+  * ♾️ DevOps at <a href="https://www.linkedin.com/company/cubostecnologia/">@CUBOS TECNOLOGIA</a>
 
 **Love _Hacking_ and _Develop_ new things!**
 
