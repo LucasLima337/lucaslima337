@@ -4,10 +4,14 @@
 ## About me :ok_man:
   * Computer Science Student :man_technologist:
   * Federal University of Bahia
-  * Software Quality Assurance Analyst at <a href="https://www.linkedin.com/company/ufbatitan/">@TITAN</a>, Junior Company
-  * Software Quality Assurance Analyst & Devops at <a href="https://www.linkedin.com/company/cubostecnologia/">@CUBOS TECNOLOGIA</a>
+  * Former Member of the <a href="https://www.linkedin.com/company/ufbatitan/">@TITAN</a>, Junior Company
+  * DevOps at <a href="https://www.linkedin.com/company/cubostecnologia/">@CUBOS TECNOLOGIA</a>
 
 **Love _Hacking_ and _Develop_ new things!**
+
+<a href="https://tryhackme.com/p/Lucas3337">
+<img height="70" src="https://tryhackme-badges.s3.amazonaws.com/Lucas3337.png" alt="TryHackMe">
+</a>
 
 ```js
 let lucas = {
@@ -58,7 +62,7 @@ let lucas = {
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-128.png" alt="cpp"/></code>
 
-<code><img height="22" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-128.png" alt="php"/></code>
+<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-256.png" alt="php"/></code>
 
 
 ### 🖼 Frontend
@@ -107,5 +111,5 @@ let lucas = {
 ### :telephone_receiver: Contact 
 
 <a href="https://www.linkedin.com/in/lucaslima337/">
-  <code><img alt="My linkedin" width="40" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644184055~hmac=224ade9c179d76955a95e129daefd821" /></code>
+  <code><img alt="My linkedin" width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" /></code>
 </a>
